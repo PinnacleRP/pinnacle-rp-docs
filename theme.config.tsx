@@ -1,28 +1,29 @@
 import React from "react";
 import { DocsThemeConfig, useConfig } from "nextra-theme-docs";
+import { useRouter } from "next/router";
 
 function useHead() {
+  const { asPath } = useRouter();
   const { frontMatter, title } = useConfig();
   const description =
     frontMatter?.description || "Pinnacle Roleplay documentation";
   const pageTitle = title || "Pinnacle Roleplay";
   const siteUrl = "https://pinnacle-rp-docs.vercel.app";
+  const url = `${siteUrl}${asPath}`;
   const ogImage = `${siteUrl}/pinnacle-logo.png`;
 
   return (
     <>
       <title>{pageTitle}</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="icon" type="image/x-icon" href="/pinnacle-logo.png" />
+      <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content={description} />
-      <link rel="icon" href="/pinnacle-logo.png" />
       <meta property="og:title" content={pageTitle} />
       <meta property="og:description" content={description} />
-      <meta property="og:type" content="website" />
+      <meta name="og:url" content={url} />
       <meta property="og:image" content={ogImage} />
-      <meta property="og:image:alt" content="Pinnacle Roleplay logo" />
-      <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:title" content={pageTitle} />
-      <meta property="twitter:description" content={description} />
-      <meta property="twitter:image" content={ogImage} />
+      <meta name="theme-color" content="#8a8f98" />
     </>
   );
 }
