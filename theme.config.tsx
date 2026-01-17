@@ -45,7 +45,7 @@ const config: DocsThemeConfig = {
   },
   head: useHead,
   footer: {
-    text: "Pinnacle Roleplay",
+    content: "Pinnacle Roleplay",
   },
 };
 
