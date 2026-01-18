@@ -34,11 +34,11 @@ Disconnecting to avoid RP is prohibited. After starting or engaging in hostile a
 
 ## Hostile RP Guidelines
 
-- Hostile RP cannot be initiated on players engaged in legal activities without meaningful interaction.
+- Hostile RP cannot be initiated on players engaged in legal activities without meaningful interaction beforehand.
 - Red Zones are KOS areas.
 - Helmets are not allowed in hostilities (LSPD exempt).
-- Boot-checking is not permitted unless meaningful RP occurred.
-- Killing someone and robbing them is not allowed, except on Cayo during KOS times.
+- Boot-checking is not permitted unless meaningful RP occurred prior.
+- Killing a player and then robbing them is not allowed. You can only do one or the other. Only exception is on Cayo island during KOS time.
 - No hostility may be initiated 30 minutes before server restart.
 
 ## Heist Rules

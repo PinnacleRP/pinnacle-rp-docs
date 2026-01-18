@@ -1,6 +1,6 @@
 ﻿# ❌ Fail RP and Breaking Character
 
-Fail RP occurs when a player breaks immersion, ignores realism, or disregards the expectations of serious roleplay.
+Fail RP occurs when a player breaks immersion, ignores realism, or disregards the expectations of serious roleplay. Players are required to remain in-character at all times and behave in ways that reflect how a reasonable person would act in the given situation.
 
 ## Breaking Character
 
@@ -16,7 +16,10 @@ While in the city, speaking out of character is not allowed unless staff explici
 
 ## Examples of Fail RP
 
-- Unrealistic actions that do not fit the GTA V environment
-- Ignoring lawful orders without reason
-- Carrying another player in a car or on a motorcycle
-- Using vehicles unrealistically without roleplay consequence
+- Unrealistic Behaviour: Performing actions that are impossible or nonsensical within the GTA V environment.
+- Unrealistic Police/Emergency Interaction: Ignoring lawful orders without reason, refusing to roleplay detainment, or failing to comply with emergency services roleplay.
+- Unrealistic Vehicle Use:
+    - Carrying another player while driving a car.
+    - Carrying another player on a motorcycle.
+    - Using vehicles unrealistically (e.g., ramming cars full-speed without roleplaying damage, or constantly crashing with no consequence).
+
