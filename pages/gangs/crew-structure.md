@@ -53,8 +53,8 @@ If the acquiring crew loses, the patched member is soft PK and must wait 3 days 
 
 Soft PK:
 
-- Forget the event and all gang-related memory
-- No revenge based on the event
+- Forget the event and all gang-related memory.
+- No revenge based on the event.
 
 Hard PK:
 
