@@ -14,9 +14,9 @@ Every roleplayed character within Pinnacle Roleplay must be 18+.
 
 This includes:
 
-- Voice: childlike tones or speech patterns
-- Sayings: language or references that indicate a minor
-- Appearance: outfits or animations meant to depict a minor
+- Voice: childlike tones or speech patterns.
+- Sayings: language or references that indicate a minor.
+- Appearance: outfits or animations meant to depict a minor.
 
 ## 🏆 Roleplay Quality Awards
 
