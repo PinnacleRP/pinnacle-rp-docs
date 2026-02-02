@@ -4,11 +4,11 @@
 
 You must **not upload, send, share, or display any content that breaches the FiveM Terms of Service.** This includes any use of **copyrighted or trademarked material** (e.g., real-world brands, TV shows, movies, logos, celebrity names or likenesses) in **any form or platform within the server**, such as:
 
-    - Phone apps like SMS, Birdy, Instapic or Photos**
-    - Phone contact images, profile photos or uploaded media
-    - Contract profile images or any media embedded in contracts
-    - Advertisements (yellow pages, etc)
-    - /me commands or any in-character actions referencing copyrighted content
+- Phone apps like SMS, Birdy, Instapic or Photos**
+- Phone contact images, profile photos or uploaded media
+- Contract profile images or any media embedded in contracts
+- Advertisements (yellow pages, etc)
+- /me commands or any in-character actions referencing copyrighted content
 
 These types of content violate FiveM’s Terms of Service. Anyone found uploading or distributing such material may face content removal, warnings, or **permanent bans.**
 

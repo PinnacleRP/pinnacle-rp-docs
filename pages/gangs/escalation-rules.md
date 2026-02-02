@@ -16,9 +16,9 @@ Any hostility, retaliation, or ongoing conflict stemming from the situations lis
 
 When robbing a rival gang member during a hostile scenario:
 
-    - You may steal any items carried on their person, except:
-        - Whitelist business-related assets
-    - Robbing dead bodies remains strictly prohibited under all circumstances.
+- You may steal any items carried on their person, except:
+    - Whitelist business-related assets
+- Robbing dead bodies remains strictly prohibited under all circumstances.
 
 These rules exist to maintain immersion, fairness, and high-quality gang roleplay. All crews are expected to act in good faith and contribute to meaningful conflict rather than forced violence.
 
@@ -46,9 +46,9 @@ Once verbal attempts fail, gangs may choose **one of the following escalation ro
  - Allowed weapons include fists, bats, and other melee weapons only
  - This phase is intended to allow resolution without permanent consequences.
      Examples include:
-         - Gang-on-gang fights
-         - Honor-based disputes
-          - Organized brawls and body shots
+    - Gang-on-gang fights
+    - Honor-based disputes
+    - Organized brawls and body shots
  - Melee escalation should occur over a realistic duration and not be resolved in a single encounter. Players are encouraged to use this phase to develop roleplay.
 - Some conflicts may be fully resolved through melee escalation alone.
  - In cases where melee escalation does not fully resolve the conflict, this does not grant permission to immediately escalate to firearms.
@@ -59,10 +59,10 @@ Once verbal attempts fail, gangs may choose **one of the following escalation ro
 If melee escalation does not make sense within the roleplay, gangs may choose to demonstrate hostility through **non-lethal actions**, provided verbal attempts were made first.
 
 Examples include, but are not limited to:
-    - Kidnapping rival gang member(s)
-    - Tagging or vandalizing a rival gang’s compound or turf
-    - Robbing and threatening rival gang member(s)
-    - Damaging rival gang property or assets (e.g., smashing vehicle windows, slashing tires)
+- Kidnapping rival gang member(s)
+- Tagging or vandalizing a rival gang’s compound or turf
+- Robbing and threatening rival gang member(s)
+- Damaging rival gang property or assets (e.g., smashing vehicle windows, slashing tires)
 
 These actions should clearly communicate intent and escalation without **involving firearms.**
 

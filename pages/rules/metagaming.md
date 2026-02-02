@@ -14,10 +14,10 @@ This includes, but is not limited to:
 Recognising or identifying a character by their voice alone is considered metagaming, unless your character has a clear, prior in-character relationship or interaction history that reasonably justifies recognition
 
 You may not identify, call out or act on a player’s identity solely based on:
-    - Voice similarity 
-    - Accent
-    - Speech patterns
-    - Familiarity from OOC interactions
+- Voice similarity 
+- Accent
+- Speech patterns
+- Familiarity from OOC interactions
 
 ## External Voice During RP
 

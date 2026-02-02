@@ -36,8 +36,8 @@ It is the leader's responsibility to ensure that all tagged members are aware of
 ## Tagging Cooldowns
 
 To prevent roster abuse, the following cooldowns apply:
-    - Returning after Soft PK via Hostile Patch Over Loss: 3-day cooldown.
-    - Returning after Soft PK or Crew Disbandment: 7-day cooldown.
+- Returning after Soft PK via Hostile Patch Over Loss: 3-day cooldown.
+- Returning after Soft PK or Crew Disbandment: 7-day cooldown.
 
 Note: Cooldowns are server-wide and may only be waived with Gang Staff approval.
 
@@ -52,8 +52,8 @@ Note: Cooldowns are server-wide and may only be waived with Gang Staff approval.
 A Hostile Patch Over occurs when a crew acquires a member from another crew. This can be permitted, but must be supported by strong roleplay and meaningful conflict.
 
 Requirements:
-    - Approval must be obtained from gang management before initiating a hostile patch over.
-    - The crew losing the member in the patch over may respond with hostility toward the acquiring crew, resulting in ongoing in-character conflict.
+- Approval must be obtained from gang management before initiating a hostile patch over.
+- The crew losing the member in the patch over may respond with hostility toward the acquiring crew, resulting in ongoing in-character conflict.
 
 Mandatory Patch-Over war period:
 
@@ -91,8 +91,8 @@ Upon death in a gang-related scenario, you are required to wait 30 minutes befor
 
 To maintain fairness and prevent roster manipulation, the following rules apply to all crews during active conflicts:
 
-    - Roster Lock: Once a war has been officially declared, crew rosters are locked and may not be modified until the conflict has concluded.
-    - Member Removal Cooldown: Any member removed from a crew is subject to a 10-day cooldown before they are eligible to rejoin the same crew.
-    - Roster Exploitation: Any attempt to exploit the roster system—such as repeatedly dropping and re-adding the same members to gain an advantage—is strictly prohibited and will result in disciplinary action.
+- Roster Lock: Once a war has been officially declared, crew rosters are locked and may not be modified until the conflict has concluded.
+- Member Removal Cooldown: Any member removed from a crew is subject to a 10-day cooldown before they are eligible to rejoin the same crew.
+- Roster Exploitation: Any attempt to exploit the roster system—such as repeatedly dropping and re-adding the same members to gain an advantage—is strictly prohibited and will result in disciplinary action.
 
 Roster rules are also specified in rules depending on the scenario that you are in. Please read all of the rules for clarification.

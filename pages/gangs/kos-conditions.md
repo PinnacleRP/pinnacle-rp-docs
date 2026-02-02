@@ -68,18 +68,18 @@ These rules exist to ensure structured, fair, and meaningful conflict while pres
 ## Kill on Site (KOS) Areas
 
 Gang tablet supply drops:
-    - The area where the drop is happening is KOS. You are **NOT** allowed to loot bodies.
-    - Hostile cooldowns still apply.
-    - You must be apart of a crew or higher (meaning you have access to the gang tablet) to participate.
-    - Fued from this does not carry over to main storyline RP with the other gangs. Treat this as if it was Cayo.
+- The area where the drop is happening is KOS. You are **NOT** allowed to loot bodies.
+- Hostile cooldowns still apply.
+- You must be apart of a crew or higher (meaning you have access to the gang tablet) to participate.
+- Fued from this does not carry over to main storyline RP with the other gangs. Treat this as if it was Cayo.
 
 Capture the zone mission:
-    - The area where the zone is, is KOS. You are **NOT** allowed to loot bodies.
-    - Hostile cooldowns still apply.
-    - You must be apart of a crew or higher (meaning you have access to the gang tablet) to participate.
-    - Fued from this does not carry over to main storyline RP with the other gangs. Treat this as if it was Cayo.
+- The area where the zone is, is KOS. You are **NOT** allowed to loot bodies.
+- Hostile cooldowns still apply.
+- You must be apart of a crew or higher (meaning you have access to the gang tablet) to participate.
+- Fued from this does not carry over to main storyline RP with the other gangs. Treat this as if it was Cayo.
 
 Cayo Perico Island:
-    - KOS
-    - Looting bodies for everything is allowed
-    - Fued from Cayo does not carry over to mainland.
+- KOS
+- Looting bodies for everything is allowed
+- Fued from Cayo does not carry over to mainland.

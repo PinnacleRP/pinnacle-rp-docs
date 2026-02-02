@@ -47,10 +47,10 @@ Players primarily focused on robbing/scamming for personal or financial gain, or
 Intentionally provoking or antagonizing police or criminal organisations for the sole purpose of initiating an interaction, chase, or shootout without meaningful roleplay context is prohibited.
 
 This includes actions such as:
-    - Purposely driving recklessly around police or gang members to trigger a chase.
-    - Verbally taunting or harassing individuals or groups with no roleplay justification.
-    - Creating artificial scenarios that serve only to force conflict without story or character development.
-    - Posing as a gang that you are not apart of - no gang baiting
+- Purposely driving recklessly around police or gang members to trigger a chase.
+- Verbally taunting or harassing individuals or groups with no roleplay justification.
+- Creating artificial scenarios that serve only to force conflict without story or character development.
+- Posing as a gang that you are not apart of - no gang baiting
 
 Roleplay should develop organically and realistically — baiting for the sake of “something to do” is not acceptable.
 
@@ -102,18 +102,18 @@ You are not allowed to initiate Hostile RP if the player is clocked on duty and 
 Tripping is not allowed in combat unless it is to prevent a player from fleeing or to escape pursuit. Tripping to execute someone is forbidden.
 
 Tripping is only allowed when:
-    - Attempting to prevent a player from fleeing an RP scenario
-    - Attempting to escape someone pursuing you.
-    - Tripping for the purpose of executing someone is strictly forbidden.
+- Attempting to prevent a player from fleeing an RP scenario
+- Attempting to escape someone pursuing you.
+- Tripping for the purpose of executing someone is strictly forbidden.
 
 ## Police Interaction Rules
 
 - Police convoys & Prisoner Transport
-    - Criminals may attempt to intercept police transport to rescure a detained individual
-    - If proper declaration/initiation was made on the convoy, players may choose to siege the PD once the vehicle arrives.
+- Criminals may attempt to intercept police transport to rescure a detained individual
+- If proper declaration/initiation was made on the convoy, players may choose to siege the PD once the vehicle arrives.
 **Prohibited Actions**
-    - Players may not camp outside PD to initiate a scene as soon as officers arrive
-    - Ramming
+- Players may not camp outside PD to initiate a scene as soon as officers arrive
+- Ramming
 
 ## Cayo Perico Island
 
