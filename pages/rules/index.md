@@ -1,6 +1,6 @@
 ﻿# 📘 Rules Overview
 
-Welcome to Pinnacle Roleplay. These rules exist to protect the quality of roleplay, keep interactions fair, and maintain a safe, serious environment.
+Welcome to Pinnacle Roleplay. Listed below will be all of the rules of the server. We want to ensure a fun, safe and serious Roleplay environment. Any breakage of the rules will result in disciplinary actions decided by the staff team.
 
 ## 📣 Reporting Rule Breaks
 
@@ -8,15 +8,21 @@ For in-game rule breaks against a player, please use `/report` in city or open a
 
 Failure to use these channels, including directly messaging staff or interrupting roleplay to handle your issue, is considered a breach and may result in disciplinary action.
 
+## Premade Ped’s & Animals Peds’s
+
+Using premade GTA PEDs (NPCs/Locals), including animals, without approval from the Administration team is prohibited.
+
+If you wish to roleplay as an NPC/local PED, please send a direct message to our Discord support bot so your request can be assessed.
+
 ## 🎂 Age Restrictions
 
 Every roleplayed character within Pinnacle Roleplay must be 18+.
 
 This also extends to portraying anyone under the age of 18 through:
 
-- Voice: childlike voices, tones or speech patterns.
-- Sayings: Using language, references or behavior that would clearly indicate a charcter is a minor.
-- Appearance: Designing a character's look, clothing or animations to resemble someone under the age of 18.
+- **Voice:** childlike voices, tones or speech patterns.
+- **Sayings:** Using language, references or behavior that would clearly indicate a charcter is a minor.
+- **Appearance:** Designing a character's look, clothing or animations to resemble someone under the age of 18.
 
 All reports of this will be dealt with by staff and up to their discretion.
 
