@@ -118,3 +118,12 @@ Tripping is only allowed when:
 ## Cayo Perico Island
 
 This is a KOS zone during set times throughout the day, when the island has a red circle around it, that means it is KOS on the island and you can be killed AND robbed. Any hostile on cayo can NOT be brought to main land.
+
+## Shooting out of car rules
+
+We currently allow shooting out of vehicles, but with some rules set. This is currently a trial run, the rules and this being a thing is subject to change.
+
+You are only allow to shoot out of your vehicle in the following situations:
+- KOS with another gang
+- Trotting against another gang
+- In a chase with the cops AFTER 2 minutes of chase
