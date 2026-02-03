@@ -7,6 +7,10 @@ Fail RP occurs when a player acts in a way that breaks immersion, ignores realis
 While in the city, speaking out of character (OOC) is strictly prohibited unless a staff member explicitly states that the conversation is OOC. If you are speaking with staff and they have not clearly stated that it is an OOC conversation, you must remain in character.
 In addition, using OOC terms are strictly prohibited as well. Some examples of OOC terms are “server” “Going AFK” “Lagging”. Use of these terms repeatedly will result in a warning.
 
+## Poor Roleplay
+
+In Pinnacle, we take roleplay seriously. To encourage and contain this value, we hold the write to issue out warnings for poor roleplay. If you are given 3 warnings for poor roleplay, you will be issued a 1-3 day ban depending on the severity.
+
 ## Roleplaying Injuries
 
 In Pinnacle, realism is paramount:

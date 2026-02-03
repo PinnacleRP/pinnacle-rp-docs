@@ -11,3 +11,7 @@ All offenders caught cheating, executing or hacking will receive a permanent, no
 ## 💸 Real Money Trade (RMT)
 
 Trading, buying, selling, or gifting in-game items, weapons, vehicles, or currency in exchange for real-world money or any other form of currency, item or service is strictly prohibited. Offenders will receive a permanent, non-appealable ban.
+
+## Selling of Supporter items
+
+All items must clear a 30 day threshhold before being sold in-city. This includes anything purchased in the supporter store.
