@@ -51,3 +51,7 @@ Here in PinnacleRP we take roleplay quality very seriously. Below will be a few 
     - If you just shot someone that you think the police saw, you can just go on a chase to get away
 
 - If you get in a car accident, Roleplay it out. We aren’t saying you have to make a 20 minute scene each time, but pulling straight off and denying that roleplay from all parties involved is not allowed. At least ask if they’re okay and if they need you to call the ambulance
+
+## Account Sharing
+
+There is zero tolerance for account sharing or anyone being on your PC to play on your character.
