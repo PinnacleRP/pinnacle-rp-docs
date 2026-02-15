@@ -48,3 +48,26 @@ Crew baiting—intentionally provoking another gang without legitimate roleplay 
 - Spreading false rumors about a gang with no storyline or RP purpose
 
 Engaging in crew baiting may result in disciplinary action.
+
+**Multi-Gang Engagement & Handholding Policy**
+
+Inter-gang conflicts are permitted provided the roleplay context is appropriate and the following conditions are met:
+
+- Clear Objective Requirement
+All conflicts must have a defined and legitimate in-character objective or prize. Engagements without a meaningful roleplay purpose are not permitted.
+
+- Escalation Compliance
+Standard escalation rules remain fully in effect. All involved parties must actively participate in each stage of escalation.
+
+- KOS/Trotting/War Player Cap Regulations
+In the event of KOS, trotting, or declared war:
+   - If multiple gangs align against a single gang, the combined force may only exceed the opposing gang’s total player cap by a maximum of +2 players overall.
+   - Example: If Gang C has a cap of 16 players, and Gangs A and B are allied against them, A and B combined may field no more than 18 players combined in total.
+
+- Abuse & Targeting Smaller Gangs
+Any abuse of this system — particularly coordinated efforts to overwhelm significantly smaller gangs without proper roleplay justification — will result in administrative action.
+
+- Prohibited Handholding
+Calling upon another gang solely to assist in combat without meaningful roleplay reasoning is considered handholding and is strictly prohibited.
+
+All conflicts must remain fair, balanced, and grounded in logical roleplay development.
