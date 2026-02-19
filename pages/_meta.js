@@ -7,5 +7,6 @@
   },
 
   rules: { title: '📋 Rules & Guidelines' },
-  gangs: { title: '🏴 Gang Rules' }
+  gangs: { title: '🏴 Gang Rules' },
+  business: { title: '📋 Business Rules' }
 };
