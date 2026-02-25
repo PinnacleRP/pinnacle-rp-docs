@@ -8,6 +8,8 @@ For in-game rule breaks against a player, please use `/report` in city or open a
 
 Failure to use these channels, including directly messaging staff or interrupting roleplay to handle your issue, is considered a breach and may result in disciplinary action.
 
+When reporting in a ticket, you must provide a clip that has 1 minute prior and after the indcident.
+
 ## Premade Peds & Animals Peds
 
 Using premade GTA PEDs (NPCs/Locals), including animals, without approval from the Administration team is prohibited.
