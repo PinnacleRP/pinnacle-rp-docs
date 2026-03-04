@@ -50,6 +50,17 @@ This can result in warnings, changes to how the business operates, temporary clo
 
 Businesses may be closed if the owner steps down, becomes inactive, or the business no longer contributes to roleplay. Closed businesses may later reopen under new ownership if appropriate.
 
+## Paycheck farming
+
+Paycheck farming will not be tolerated. Employees are expected to actively roleplay and contribute while on duty. Being clocked in without participating, avoiding interaction, or being clocked on only to collect pay will be considered paycheck farming.
+
+If you are caught:
+- First Offence – Verbal/Documented Warning
+- Second Offence – Final Warning
+- Third Offence – Immediate removal of your employee role
+
+If removed for paycheck farming, the role will not be reinstated
+
 ## Final Note
 
 The business system works best when owners stay active, fair, and focused on creating roleplay for others. The goal is to keep the city feeling alive rather than limiting opportunities.
