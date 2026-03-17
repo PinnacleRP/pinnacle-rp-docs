@@ -57,3 +57,7 @@ Here in PinnacleRP we take roleplay quality very seriously. Below will be a few 
 ## Account Sharing
 
 There is zero tolerance for account sharing or anyone being on your PC to play on your character.
+
+## Chargebacks
+
+If you are to chargeback on a purchase through PinnacleRP, you will be removed from the community.

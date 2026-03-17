@@ -72,8 +72,9 @@ Hostile roleplay is a core part of criminal interaction within PinnableRP. These
 - Killing a player and then robbing them is not allowed. You can only do one or the other. Only exception is on Cayo island during KOS time.
 - No hostility may be initiated 30 minutes before server restart.
 - If a robbed player escalates to deadly force, lethal retaliation is permitted.
-- Hostages must have no personal or gang affiliation with the captor. We expect everyone to capture a hostage legit with meaningful 2 minutes (atleast) of RP before taking them
+- Hostages must have no personal or gang affiliation with the captor. We expect everyone to capture a hostage legit with meaningful roleplay before taking them hostage (i.e. Pulling up to someone and telling them to put their hands up straight away without any RP is not allowed). This will be up to staff discretion if reported. 
 - Hostages cannot be taken solely for financial gain
+- You can NOT take anyone hostage inside a whitelisted business.
 
 **Robberies & Theft**
 
