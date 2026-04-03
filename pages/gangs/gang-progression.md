@@ -34,14 +34,14 @@ Each rank provides increased roster and hostile caps, as well as access to more 
 - **Hostile cap:** 14 members
 - **Roster cap:** 18 members
 - **Customization:** 4 custom clothing pieces for male and female characters (e.g., jacket, shirt, pants, tactical vest).
-- **Privileges:** Gang storage access, boss menu, and official turf (up to a 4 postal turf)
+- **Privileges:** Gang storage access, boss menu, and official turf (up to a 2 postal turf)
 
 **Organisation:**
 
 - **Hostile cap:** 18 members
 - **Roster cap:** 22 members
 - **Customization:** 8 custom clothing pieces for male and female.
-- **Privileges:** Custom MLO (Gang HQ, hideout, storefront), garage at MLO for $1,000,000, access to the black market, and optional 4-postal turf expansion (must be earned through RP).
+- **Privileges:** Custom MLO (Gang HQ, hideout, storefront), garage at MLO for $1,000,000, access to the black market, and optional 2-postal turf expansion (must be earned through RP).
 
 **Syndicated:**
 
@@ -61,7 +61,7 @@ Each rank provides increased roster and hostile caps, as well as access to more 
 
 ## Turf Rules
 
-- **Claiming Turf:** Crews can claim as much turf as they want through roleplay, but will only be granted a 4-postal turf on the gang tablet.
+- **Claiming Turf:** Crews can claim as much turf as they want through roleplay, but will only be granted a 2-postal turf on the gang tablet.
 - **Turf Interactions:** You can press, hands, or rob anyone within your claimed turf. Note: This only applies to those who are physically present and actively "chilling" in your turf (not just driving through).
 - **Turf challenging:** Turfs can be fought for/challenged until you are crew. You can not fight for turf of a crew or higher. Both crews must be trial crew or lower.
 
