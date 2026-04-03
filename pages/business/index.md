@@ -33,6 +33,10 @@ Competition between businesses is fine and encouraged, but it needs to stay in r
 Businesses are encouraged to advertise and run events. Events should be organized responsibly and not intentionally disrupt other businesses or server performance.
 Large events may need staff awareness depending on size.
 
+## Clothing
+
+Each business is allowed up to 8 pieces of clothing for free. If there is more needed to be put in, there will be a fee charged for each clothing item.
+
 ## Restrictions
 
 The following is not allowed:
@@ -60,6 +64,14 @@ If you are caught:
 - Third Offence – Immediate removal of your employee role
 
 If removed for paycheck farming, the role will not be reinstated
+
+## One Business Per Organisation
+
+Each organisation is limited to owning and operating one primary business at a time. This is to ensure fairness across the server and to prevent any single group from controlling multiple areas of the economy.
+
+Organisations must choose which business they wish to represent. Attempting to run, manage, or indirectly control multiple businesses through alternate members, aliases, or proxy ownership will be treated as a breach of this guideline.
+Members of an organisation may still work for other businesses as employees, but ownership and control must remain separate. Staff may review situations where overlap appears to bypass this rule.
+If an organisation wishes to change businesses, they must step down from their current one before taking ownership of another and ownership can not fall to someone from there organisation.
 
 ## Final Note
 
