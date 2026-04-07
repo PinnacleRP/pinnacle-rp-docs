@@ -51,6 +51,8 @@ Here in PinnacleRP we take roleplay quality very seriously. Below will be a few 
     - If you have no warrants or any suspicion of getting arrested, you need to at least hear the cops reasoning for the traffic stop
     - If you have a warrant out that you are aware of, you can go on a chase, but we still would advise hearing the officers' reasoning for the stop because they could just be giving you a ticket for a traffic violation. Once they mention to step out of the vehicle you can pull off
     - If you just shot someone that you think the police saw, you can just go on a chase to get away
+    - If you have your head shaved you are to change your hair to the shaved state and remain that way for two IRL days
+    - If you have your hand cut off, you are to change your hands to the 1 hand one and remain that way for 7 days. Then, you are to schedule a surgery with EMS to have your hand put back on
 
 - If you get in a car accident, Roleplay it out. We aren’t saying you have to make a 20 minute scene each time, but pulling straight off and denying that roleplay from all parties involved is not allowed. At least ask if they’re okay and if they need you to call the ambulance
 
