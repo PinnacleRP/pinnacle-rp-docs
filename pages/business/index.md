@@ -73,6 +73,22 @@ Organisations must choose which business they wish to represent. Attempting to r
 Members of an organisation may still work for other businesses as employees, but ownership and control must remain separate. Staff may review situations where overlap appears to bypass this rule.
 If an organisation wishes to change businesses, they must step down from their current one before taking ownership of another and ownership can not fall to someone from there organisation.
 
+## Menu Item Limits
+
+Businesses are limited to a maximum of 8 food and/or drink items on their menu. This is to keep menus clear, balanced, and consistent across the server while encouraging quality roleplay over quantity.
+
+Menus should remain fitting to the business theme and not be similar or duplicate style items to other businesses.
+Any additions, removals, or changes to menu items must be approved by Human Resources and will be made at their discretion.
+
+## Business Progression & Activity
+
+Businesses that remain active, consistently open, and contribute to roleplay through regular operations, events, and community engagement may be eligible for upgrades or additional features.
+
+This can include things such as expanded menu options, unique items,  or other business related benefits that enhance roleplay.
+All upgrades and extras are not guaranteed and will be granted at the discretion of Human Resources based on overall activity, quality of roleplay, and positive contribution to the server.
+
+Inactive businesses or those that fail to engage with the community should not expect progression or additional benefits.
+
 ## Final Note
 
 The business system works best when owners stay active, fair, and focused on creating roleplay for others. The goal is to keep the city feeling alive rather than limiting opportunities.
