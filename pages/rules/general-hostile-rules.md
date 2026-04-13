@@ -126,3 +126,4 @@ Shooting out of vehicles are allowed, but the following rules apply:
 
 - You are only allowed to shoot out of vehicles in trots, KOS or in police chases
 - If you are in a police chase, you must be in the chase for 5 minutes before shooting
+- Drivers are NOT allowed to shootout of vehicles
