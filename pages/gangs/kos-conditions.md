@@ -78,8 +78,3 @@ Capture the zone mission:
 - Hostile cooldowns still apply.
 - You must be apart of a crew or higher (meaning you have access to the gang tablet) to participate.
 - Fued from this does not carry over to main storyline RP with the other gangs. Treat this as if it was Cayo.
-
-Cayo Perico Island:
-- KOS
-- Looting bodies for everything is allowed
-- Fued from Cayo does not carry over to mainland.

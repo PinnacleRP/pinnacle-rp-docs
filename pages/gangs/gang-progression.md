@@ -61,6 +61,8 @@ Each rank provides increased roster and hostile caps, as well as access to more 
 
 ## Turf Rules
 
+Turf is to not be challenged, or messed with by a racing gang and vice versa
+
 - **Claiming Turf:** Crews can claim as much turf as they want through roleplay, but will only be granted a 2-postal turf on the gang tablet.
 - **Turf Interactions:** You can press, hands, or rob anyone within your claimed turf. Note: This only applies to those who are physically present and actively "chilling" in your turf (not just driving through).
 - **Turf challenging:** Turfs can be fought for/challenged until you are crew. You can not fight for turf of a crew or higher. Both crews must be trial crew or lower.

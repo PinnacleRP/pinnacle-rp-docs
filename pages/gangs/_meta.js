@@ -6,5 +6,6 @@
   'crew-structure': 'Crew Structure',
   'gang-progression': 'Gang Progression',
   'zones': 'Zones and Territories',
-  'vendor-rules': 'Vendor Rules'
+  'vendor-rules': 'Vendor Rules',
+  'racing': 'Racing Crew Rules'
 };
