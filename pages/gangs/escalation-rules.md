@@ -4,7 +4,6 @@
 
 To ensure conflicts remain fair, contained, and event-specific, hostile actions may not carry over from the following scenarios:
 
-- Cayo Perico Island KOS
 - Official Gang Events
 - Crate Drop KOS
 - Hold the Zone KOS

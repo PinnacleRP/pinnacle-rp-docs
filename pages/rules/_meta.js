@@ -11,5 +11,6 @@
   'new-life-rule': 'New Life Rule',
   'general-hostile-rules': 'Hostile RP',
   'random-death-match': 'RDM',
-  'vehicle-death-match': 'VDM'
+  'vehicle-death-match': 'VDM',
+  'pricing': 'Pricing'
 };
