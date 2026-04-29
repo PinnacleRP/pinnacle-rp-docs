@@ -75,3 +75,16 @@ If you are in a hostage situation with the police, you are allowed ONE demand pe
 Demands aren't limited to just these, but it has to make sense in roleplay. Be creative, don't just ask for 'no weapons' because that would mean you can't use weapons because it creates an unfair advantage.
 
 If you do not have a hostage at all, cops reserve the right to just cuff you or breach the store to arrest you.
+
+## Helicopter Rules
+
+- Must pass PRLT flight training and be awarded pilot license
+- Only allowed to land on helipad within city limits
+- If in county limits (beyond the observatory) you can land anywhere
+- Shooting is allowed from helicopters only if the ground scene has initiated shooting first
+- No ramming with helicopters (if on accident, its fine)
+- If you use your helicopter in a heist, you are not allowed to ask for no helicopters for PD as a demand
+- Cops withhold the right to impound your helicopter
+- Cops must go to PRLT to have your pilot license revoked and must provide evidence
+- You can fly your helicopter without a license, but you will be subject to fines, longer impound times and jail time if caught
+- Planes follow the same rules, but must be landed on an airstrip
