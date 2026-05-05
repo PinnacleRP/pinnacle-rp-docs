@@ -56,6 +56,8 @@ Here in PinnacleRP we take roleplay quality very seriously. Below will be a few 
 
 - If you get in a car accident, Roleplay it out. We aren’t saying you have to make a 20 minute scene each time, but pulling straight off and denying that roleplay from all parties involved is not allowed. At least ask if they’re okay and if they need you to call the ambulance
 
+- Suicide and Rape Roleplay is not allowed. This will result in an immediate ban.
+
 ## Account Sharing
 
 There is zero tolerance for account sharing or anyone being on your PC to play on your character.
