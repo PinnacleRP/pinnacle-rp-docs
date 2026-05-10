@@ -73,6 +73,8 @@ If you are in a hostage situation with the police, you are allowed ONE demand pe
 - Free passage. (commonly referred as basic bitch package) This INCLUDES no spikestrips or anything that iterferes with your pathway to your vehicle and impedes on your vehicle leaving intitially. (e.g. Cops can not put spikes in front of your car when you try to leave, but they CAN put spikes down the road). If you do not ask for this, cops reserve the right to keep you from entering your vehicle, or blocking you in as soon as the hostage is handed over.
 - No Spikestrips
 - No Helicopters (The whole chase)
+
+You are allowed to take a cop hostage and request for your friend to get released from police custody ONLY when they are at MRPD. If they are sent off, you can't do anything. Taking anyone that isn't a cop hostage, you can NOT request to have someone freed. 1 person released = 1 demand.
  
 Demands aren't limited to just these, but it has to make sense in roleplay. Be creative, don't just ask for 'no weapons' because that would mean you can't use weapons because it creates an unfair advantage.
 
