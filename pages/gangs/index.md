@@ -67,7 +67,8 @@ In the event of KOS, trotting, or declared war:
 - Abuse & Targeting Smaller Gangs
 Any abuse of this system — particularly coordinated efforts to overwhelm significantly smaller gangs without proper roleplay justification — will result in administrative action.
 
-- Prohibited Handholding
-Calling upon another gang solely to assist in combat without meaningful roleplay reasoning is considered handholding and is strictly prohibited.
+## Prohibited Handholding
+- Calling upon another gang solely to assist in combat without meaningful roleplay reasoning is considered handholding and is strictly prohibited.
+- Handholding is strictly prohibited against civilians. Each case will be reviewed and dealt with by staff.
 
 All conflicts must remain fair, balanced, and grounded in logical roleplay development.
