@@ -1,3 +1,4 @@
 ﻿export default {
-  index: 'Business Overview'
+  index: 'Overview',
+  'tiers': 'Business Tier System'
 };
