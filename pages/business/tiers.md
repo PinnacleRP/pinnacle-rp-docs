@@ -50,7 +50,7 @@ Your business becomes recognised across the city.
 Unlocks:
 - 6% tax reduction
 - Custom business item (healing item, combo meal, signature dish, etc.)
-- Access to 2 extra food/drink items
+- Access to 4 extra food/drink items
 - Access to 2 extra business clothing/uniforms each for male and female
 - Large storage increase
 - Business advertisement package (TBC)

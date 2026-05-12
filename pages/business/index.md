@@ -89,6 +89,78 @@ All upgrades and extras are not guaranteed and will be granted at the discretion
 
 Inactive businesses or those that fail to engage with the community should not expect progression or additional benefits.
 
+## Business Ban / Refusal of Service Rules
+
+We are changing how business “bans” and blacklists work across all businesses.
+
+# No Permanent Blacklists
+
+Permanent blacklisting from businesses is no longer a thing.
+
+Instead, we are moving to an in-city refusal of service system.
+
+This means:
+- You cannot permanently ban players from a business
+- You may refuse service on a case-by-case RP basis
+
+
+# Trespassing & Police Enforcement
+
+If a player is refused service and:
+- Refuses to leave the premises
+- Continues to return after being told to leave
+
+You are allowed to:
+- Contact police
+- Have them trespassed from the property
+
+# Refusal of Service Rules
+
+You may only refuse service to:
+
+- The individual(s) who caused the issue (not entire groups)
+- With a valid RP reason
+
+You must also have:
+
+- Proof of the incident (bodycam or recorded evidence where possible)
+
+You are allowed to:
+
+- Explain the reason to the player OR
+- Choose not to explain (RP discretion)
+
+However, if staff/HR reviews the situation, you must provide:
+
+- A valid reason
+- Supporting evidence (bodycam or equivalent) “He said / she said” will not be accepted.
+
+# Owner Responsibility
+
+It is the business owner’s responsibility to ensure:
+
+- Employees are aware of refusal of service rules
+- Employees understand how trespassing works
+- Proper RP standards are followed
+
+# Police Order Requirement
+
+To enforce a trespass order:
+
+- The business owner must contact police
+
+Police will either:
+
+- Attend the business, or
+- Meet the owner at MRPD to process it
+
+# Important Notes
+- Refusal of service must be RP justified
+- Abuse of this system will be reviewed by staff
+- This system is designed for realistic RP, not punishment-based banning
+- If the individual(s) continue to harass it can be raised to the government where they will issue punishment as needed
+- Maximum duration for incident-based restrictions (where applicable) is generally up to 1 week unless staff escalate in extreme cases
+
 ## Final Note
 
 The business system works best when owners stay active, fair, and focused on creating roleplay for others. The goal is to keep the city feeling alive rather than limiting opportunities.
